@@ -6,11 +6,11 @@ import sys
 
 def main():
 	os.system('clear')
-	os.system('figlet papiking21')
+	os.system('figlet melok gaming')
 	banner='''
 
-	[+]AUTHOR:Papi king21
-	[+]Youtube : Papi King21
+	[+]AUTHOR:Melok gaming
+	[+]Youtube : Melok gaming
 	'''
 	print(banner)
 	no = input(' target : ')
